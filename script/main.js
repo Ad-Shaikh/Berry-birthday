@@ -200,7 +200,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".baloons img",
-      2.5,
+      2.0,
       {
         opacity: 0.9,
         y: 1400
@@ -244,7 +244,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".wish-hbd span",
-      0.7,
+      1,
       {
         scale: 1.4,
         rotationY: 150
